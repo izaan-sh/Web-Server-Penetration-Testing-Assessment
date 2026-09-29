@@ -47,7 +47,7 @@ This repository documents an end-to-end black-box penetration testing assessment
 
 ## Technical Documentation & Artifacts
 
-- [`docs/Vulnerability_Assessment_Report.pdf`](./docs/Vulnerability_Assessment_Report.pdf) — Full technical scan report, port analysis, and mitigation plans[cite: 8].
+- [`docs/Vulnerability_Assessment_Report.pdf`](https://github.com/izaan-sh/Web-Server-Penetration-Testing-Assessment/blob/1e835f42ab421c5b9b1faba39a1b767698a88741/docs/Vulnerability%20Assessment%20Report.pdf) — Full technical scan report, port analysis, and mitigation plans[cite: 8].
 - [`docs/Penetration_Testing_Assessment.pdf`](./docs/Penetration_Testing_Assessment.pdf) — End-to-end black-box assessment write-up detailing RCE and exploitation vectors.
 
 ---
